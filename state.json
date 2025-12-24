@@ -2,8 +2,40 @@
   "schema_version": 1,
   "level": 1,
   "user_feedback": "",
-  "covered_topics": [],
-  "seen_items": {},
-  "last_run_utc": null
+  "covered_topics": [
+    "reinsurance_treaty"
+  ],
+  "seen_items": {
+    "dcd9301564cceca4": {
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/tag/marine-reinsurance/page/3/",
+      "title": "Marine reinsurance news - Page 3 of 9",
+      "first_seen_utc": "2025-12-24T15:57:08.801574+00:00"
+    },
+    "8794a5019884fbfd": {
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/canopius-announces-marine-energy-treaty-team-changes/",
+      "title": "Canopius announces Marine & Energy Treaty team changes",
+      "first_seen_utc": "2025-12-24T15:57:08.801574+00:00"
+    },
+    "bd80d4193e10f20c": {
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/tag/marine/",
+      "title": "marine",
+      "first_seen_utc": "2025-12-24T15:57:08.801574+00:00"
+    },
+    "8c41cdf7d693c308": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/",
+      "title": "Catastrophe Bonds, ILS, Reinsurance, Risk Transfer \u2013 Artemis.bm",
+      "first_seen_utc": "2025-12-24T15:57:08.801574+00:00"
+    },
+    "690b4a7258fb73bb": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/page/3/",
+      "title": "News on Catastrophe Bonds , Insurance Linked Securities ( ILS )...",
+      "first_seen_utc": "2025-12-24T15:57:08.801574+00:00"
+    }
+  },
+  "last_run_utc": "2025-12-24T15:57:08.801620+00:00"
 }
-
