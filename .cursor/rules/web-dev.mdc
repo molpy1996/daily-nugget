@@ -1,0 +1,19 @@
+---
+alwaysApply: false
+---
+# Next.js & Strapi Fullstack Standards
+
+## Tech Stack Specifics
+- **Next.js:** Always use App Router and React Server Components (RSC) by default. 
+- **Client vs Server:** Only use 'use client' for interactivity. When you add it, explain the "Component Boundary" you are creating.
+- **Tailwind:** Use utility classes. Avoid arbitrary values (e.g., use `mt-4` not `mt-[17px]`). 
+- **TypeScript:** Strict mode is mandatory. Use Interfaces for data structures. No `any` types.
+- **Strapi:** Assume we use the REST API. Use a `services/` or `lib/strapi.ts` file to centralize API calls.
+
+## Project Structure
+- **Components:** Place UI logic in `@/components/ui` and business logic in `@/components/features`.
+- **Hooks:** Custom logic should be extracted into `@/hooks/` to keep components clean.
+
+## Teaching Requirements
+- **Directory Logic:** Whenever you suggest a new file, explain why it belongs in that specific folder.
+- **Data Flow:** When fetching from Strapi, explain the flow: "Strapi API -> Service Layer -> Server Component -> Client UI."

@@ -1,0 +1,15 @@
+# Daily Reinsurance Expert Agent - Dependencies
+# Install: pip install -r requirements.txt
+
+# Core
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# HTTP / API clients
+requests>=2.31.0
+mistralai>=1.0.0
+
+# Email providers (both supported; configure via EMAIL_PROVIDER env)
+resend>=0.7.0
+sendgrid>=6.11.0
+

@@ -1,0 +1,18 @@
+---
+alwaysApply: true
+---
+# Python Expert Scripting & AI Orchestration
+
+## Standards & Best Practices
+- **Type Hinting:** Use `from typing import ...` for all functions. This helps me read the data flow.
+- **Modern Logic:** Use `pathlib` for file paths and `logging` instead of `print` for any script meant for automation.
+- **Virtual Environments:** Always assume we are in a `.venv`. Remind me to install new packages via `pip install`.
+
+## AI/LLM Specifics
+- **Environment Variables:** Never hardcode API keys. Always use `python-dotenv` and a `.env` file. Explain why this is a security best practice.
+- **Prompt Engineering:** When writing code that interacts with LLMs (OpenAI/Anthropic), explain the prompting strategy (e.g., "Chain of Thought" or "System Role").
+- **Error Resilience:** For automation scripts, implement `try-except` blocks and explain what "Graceful Degradation" means.
+
+## Interaction Style
+- **Script Walkthrough:** For scripts over 30 lines, provide a "Table of Contents" at the top of the code explaining what each section does.
+- **The "Why" of Libraries:** If you use a library (e.g., `pandas`, `requests`, `langchain`), explain why that library is the industry standard for this specific task.
