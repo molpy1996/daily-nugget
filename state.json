@@ -3,7 +3,8 @@
   "level": 1,
   "user_feedback": "",
   "covered_topics": [
-    "reinsurance_treaty"
+    "reinsurance_treaty",
+    "reinsurance_capacity"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -35,7 +36,25 @@
       "url": "https://www.artemis.bm/news/page/3/",
       "title": "News on Catastrophe Bonds , Insurance Linked Securities ( ILS )...",
       "first_seen_utc": "2025-12-24T15:57:08.801574+00:00"
+    },
+    "0af6e13a7e2d5225": {
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/tag/energy-reinsurance/",
+      "title": "Energy Reinsurance",
+      "first_seen_utc": "2025-12-25T07:19:52.898932+00:00"
+    },
+    "06bc089317fa5e7c": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/catastrophe-bonds/page/33/",
+      "title": "Catastrophe bonds and insurance-linked securities news",
+      "first_seen_utc": "2025-12-25T07:19:52.898932+00:00"
+    },
+    "70fdeaa2f4e70327": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/library/catastrophe-bond-ils-legal-issues/",
+      "title": "Catastrophe bond & insurance-linked securities (ILS) legal ...",
+      "first_seen_utc": "2025-12-25T07:19:52.898932+00:00"
     }
   },
-  "last_run_utc": "2025-12-24T15:57:08.801620+00:00"
+  "last_run_utc": "2025-12-25T07:19:52.898966+00:00"
 }
