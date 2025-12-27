@@ -5,7 +5,8 @@
   "covered_topics": [
     "reinsurance_treaty",
     "reinsurance_capacity",
-    "reinsurance_facilities"
+    "reinsurance_facilities",
+    "insurance_linked_securities"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -79,7 +80,19 @@
       "url": "https://www.artemis.bm/news/",
       "title": "News on Catastrophe Bonds, Insurance Linked Securities ...",
       "first_seen_utc": "2025-12-26T07:19:37.199652+00:00"
+    },
+    "3f1407b05b2c8151": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/private-ils-heads-into-jan-renewals-with-increased-capacity-and-technical-discipline-doris-twelve-securis/",
+      "title": "Private ILS heads into Jan renewals with increased ...",
+      "first_seen_utc": "2025-12-27T07:16:46.506792+00:00"
+    },
+    "de9561e81a9b6a72": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/dashboard/",
+      "title": "Artemis Catastrophe Bond & ILS Market Dashboard",
+      "first_seen_utc": "2025-12-27T07:16:46.506792+00:00"
     }
   },
-  "last_run_utc": "2025-12-26T07:19:37.199700+00:00"
+  "last_run_utc": "2025-12-27T07:16:46.506839+00:00"
 }
