@@ -92,7 +92,13 @@
       "url": "https://www.artemis.bm/dashboard/",
       "title": "Artemis Catastrophe Bond & ILS Market Dashboard",
       "first_seen_utc": "2025-12-27T07:16:46.506792+00:00"
+    },
+    "9dba654f79438f31": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/catastrophe-bonds/page/580/",
+      "title": "Catastrophe bonds and insurance-linked securities news",
+      "first_seen_utc": "2025-12-28T07:17:49.670551+00:00"
     }
   },
-  "last_run_utc": "2025-12-27T07:16:46.506839+00:00"
+  "last_run_utc": "2025-12-28T07:17:49.670575+00:00"
 }
