@@ -98,7 +98,13 @@
       "url": "https://www.artemis.bm/news/catastrophe-bonds/page/580/",
       "title": "Catastrophe bonds and insurance-linked securities news",
       "first_seen_utc": "2025-12-28T07:17:49.670551+00:00"
+    },
+    "e0a73a295d2eefa9": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/dashboard/catastrophe-bonds-ils-issued-and-outstanding-by-year/",
+      "title": "Catastrophe bonds & ILS issued and outstanding by year",
+      "first_seen_utc": "2025-12-29T07:23:16.817663+00:00"
     }
   },
-  "last_run_utc": "2025-12-28T07:17:49.670575+00:00"
+  "last_run_utc": "2025-12-29T07:23:16.817710+00:00"
 }
