@@ -6,7 +6,8 @@
     "reinsurance_treaty",
     "reinsurance_capacity",
     "reinsurance_facilities",
-    "insurance_linked_securities"
+    "insurance_linked_securities",
+    "reinsurance_cession"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -106,5 +107,5 @@
       "first_seen_utc": "2025-12-29T07:23:16.817663+00:00"
     }
   },
-  "last_run_utc": "2025-12-29T07:23:16.817710+00:00"
+  "last_run_utc": "2025-12-30T07:20:57.291825+00:00"
 }
