@@ -8,7 +8,8 @@
     "reinsurance_facilities",
     "insurance_linked_securities",
     "reinsurance_cession",
-    "reinsurance_data_saas"
+    "reinsurance_data_saas",
+    "reinsurance_retrocession"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -106,7 +107,19 @@
       "url": "https://www.artemis.bm/dashboard/catastrophe-bonds-ils-issued-and-outstanding-by-year/",
       "title": "Catastrophe bonds & ILS issued and outstanding by year",
       "first_seen_utc": "2025-12-29T07:23:16.817663+00:00"
+    },
+    "eeba5fbe8e8e9c8f": {
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/tag/marine-insurance/",
+      "title": "marine insurance news - Reinsurance News",
+      "first_seen_utc": "2026-01-01T07:20:44.346819+00:00"
+    },
+    "163302d9011d17e6": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/topic/insurance-linked-securities/",
+      "title": "Insurance linked securities news, ILS news",
+      "first_seen_utc": "2026-01-01T07:20:44.346819+00:00"
     }
   },
-  "last_run_utc": "2025-12-31T07:21:22.943198+00:00"
+  "last_run_utc": "2026-01-01T07:20:44.346861+00:00"
 }
