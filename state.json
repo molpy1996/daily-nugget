@@ -9,7 +9,8 @@
     "insurance_linked_securities",
     "reinsurance_cession",
     "reinsurance_data_saas",
-    "reinsurance_retrocession"
+    "reinsurance_retrocession",
+    "cedent"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -119,7 +120,13 @@
       "url": "https://www.artemis.bm/news/topic/insurance-linked-securities/",
       "title": "Insurance linked securities news, ILS news",
       "first_seen_utc": "2026-01-01T07:20:44.346819+00:00"
+    },
+    "1096ee084a425d41": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/ils-to-continue-evolving-into-a-central-part-of-the-worlds-risk-transfer-infrastructure-hcma/",
+      "title": "ILS to continue evolving into a central part of the world's ...",
+      "first_seen_utc": "2026-01-02T07:21:33.737320+00:00"
     }
   },
-  "last_run_utc": "2026-01-01T07:20:44.346861+00:00"
+  "last_run_utc": "2026-01-02T07:21:33.737359+00:00"
 }
