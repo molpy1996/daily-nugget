@@ -162,7 +162,19 @@
       "url": "https://www.artemis.bm/news/apra-refines-proposals-on-cat-bonds-and-ils-including-removing-reinstatement-requirement/",
       "title": "APRA refines proposals on cat bonds and ILS, including ...",
       "first_seen_utc": "2026-01-07T07:22:52.777075+00:00"
+    },
+    "e56b2ffc3cd6fe62": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/property-cat-reinsurance-down-14-7-retrocession-down-16-5-at-jan-2026-renewals-howden-re/",
+      "title": "Property cat reinsurance down 14.7%, retrocession down 16.5% at ...",
+      "first_seen_utc": "2026-01-08T07:21:59.414096+00:00"
+    },
+    "be3f9db07839b87c": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/topic/cat-bond/",
+      "title": "Cat bond news - Artemis.bm",
+      "first_seen_utc": "2026-01-08T07:21:59.414096+00:00"
     }
   },
-  "last_run_utc": "2026-01-07T07:22:52.777106+00:00"
+  "last_run_utc": "2026-01-08T07:21:59.414136+00:00"
 }
