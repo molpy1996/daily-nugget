@@ -10,7 +10,8 @@
     "reinsurance_cession",
     "reinsurance_data_saas",
     "reinsurance_retrocession",
-    "cedent"
+    "cedent",
+    "catastrophe_bonds"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -174,7 +175,13 @@
       "url": "https://www.artemis.bm/news/topic/cat-bond/",
       "title": "Cat bond news - Artemis.bm",
       "first_seen_utc": "2026-01-08T07:21:59.414096+00:00"
+    },
+    "edd61a0eeaa991c9": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/library/catastrophe-bonds/",
+      "title": "Catastrophe bond & insurance-linked securities (ILS) ...",
+      "first_seen_utc": "2026-01-09T07:23:02.860846+00:00"
     }
   },
-  "last_run_utc": "2026-01-08T07:21:59.414136+00:00"
+  "last_run_utc": "2026-01-09T07:23:02.860881+00:00"
 }
