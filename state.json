@@ -11,7 +11,8 @@
     "reinsurance_data_saas",
     "reinsurance_retrocession",
     "cedent",
-    "catastrophe_bonds"
+    "catastrophe_bonds",
+    "reinsurance_rate"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -181,7 +182,13 @@
       "url": "https://www.artemis.bm/library/catastrophe-bonds/",
       "title": "Catastrophe bond & insurance-linked securities (ILS) ...",
       "first_seen_utc": "2026-01-09T07:23:02.860846+00:00"
+    },
+    "2a733ddf816ddf80": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/still-strong-reinsurance-returns-to-sustain-compounding-price-competition-kbw/",
+      "title": "Still-strong reinsurance returns to sustain compounding ...",
+      "first_seen_utc": "2026-01-10T07:17:10.675121+00:00"
     }
   },
-  "last_run_utc": "2026-01-09T07:23:02.860881+00:00"
+  "last_run_utc": "2026-01-10T07:17:10.675159+00:00"
 }
