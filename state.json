@@ -12,7 +12,8 @@
     "reinsurance_retrocession",
     "cedent",
     "catastrophe_bonds",
-    "reinsurance_rate"
+    "reinsurance_rate",
+    "reinsurance_broker"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -188,7 +189,13 @@
       "url": "https://www.artemis.bm/news/still-strong-reinsurance-returns-to-sustain-compounding-price-competition-kbw/",
       "title": "Still-strong reinsurance returns to sustain compounding ...",
       "first_seen_utc": "2026-01-10T07:17:10.675121+00:00"
+    },
+    "8a7f73920cf4a426": {
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/tmk-adds-energy-power-and-renewables-specialist-gregory-to-liability-team/",
+      "title": "TMK adds energy, power and renewables specialist ...",
+      "first_seen_utc": "2026-01-12T07:24:45.041986+00:00"
     }
   },
-  "last_run_utc": "2026-01-11T07:19:00.169965+00:00"
+  "last_run_utc": "2026-01-12T07:24:45.042029+00:00"
 }
