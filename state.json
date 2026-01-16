@@ -243,7 +243,19 @@
       "url": "https://www.artemis.bm/news/page/2/",
       "title": "News on Catastrophe Bonds, Insurance Linked Securities (ILS) & ...",
       "first_seen_utc": "2026-01-15T07:23:09.076154+00:00"
+    },
+    "4f3ab9d0e8436fa7": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/page/387/?taxonomy=post_tag&term=reinsurance",
+      "title": "reinsurance news",
+      "first_seen_utc": "2026-01-16T07:21:59.212640+00:00"
+    },
+    "d6273dbce4831eaf": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/cat-bonds-ils-increasingly-compelling-as-essential-diversifiers-sage-advisory/",
+      "title": "Cat bonds & ILS increasingly compelling as essential ...",
+      "first_seen_utc": "2026-01-16T07:21:59.212640+00:00"
     }
   },
-  "last_run_utc": "2026-01-15T07:23:09.076202+00:00"
+  "last_run_utc": "2026-01-16T07:21:59.212684+00:00"
 }
