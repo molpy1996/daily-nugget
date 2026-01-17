@@ -255,7 +255,13 @@
       "url": "https://www.artemis.bm/news/cat-bonds-ils-increasingly-compelling-as-essential-diversifiers-sage-advisory/",
       "title": "Cat bonds & ILS increasingly compelling as essential ...",
       "first_seen_utc": "2026-01-16T07:21:59.212640+00:00"
+    },
+    "10f81d31b44a8e4d": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/dashboard/catastrophe-bonds-ils-outstanding-by-sponsor/",
+      "title": "Catastrophe bonds & ILS outstanding by sponsor",
+      "first_seen_utc": "2026-01-17T07:16:55.340008+00:00"
     }
   },
-  "last_run_utc": "2026-01-16T07:21:59.212684+00:00"
+  "last_run_utc": "2026-01-17T07:16:55.340046+00:00"
 }
