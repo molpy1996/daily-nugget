@@ -13,7 +13,8 @@
     "cedent",
     "catastrophe_bonds",
     "reinsurance_rate",
-    "reinsurance_broker"
+    "reinsurance_broker",
+    "reinsurance_program_structure"
   ],
   "seen_items": {
     "dcd9301564cceca4": {
@@ -263,5 +264,5 @@
       "first_seen_utc": "2026-01-17T07:16:55.340008+00:00"
     }
   },
-  "last_run_utc": "2026-01-18T07:17:35.302907+00:00"
+  "last_run_utc": "2026-01-19T07:26:45.095582+00:00"
 }
