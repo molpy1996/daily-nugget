@@ -262,7 +262,13 @@
       "url": "https://www.artemis.bm/dashboard/catastrophe-bonds-ils-outstanding-by-sponsor/",
       "title": "Catastrophe bonds & ILS outstanding by sponsor",
       "first_seen_utc": "2026-01-17T07:16:55.340008+00:00"
+    },
+    "4933a9308297db56": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/topic/catastrophe-bond/",
+      "title": "Catastrophe bond news",
+      "first_seen_utc": "2026-01-20T07:24:56.552080+00:00"
     }
   },
-  "last_run_utc": "2026-01-19T07:26:45.095582+00:00"
+  "last_run_utc": "2026-01-20T07:24:56.552104+00:00"
 }
