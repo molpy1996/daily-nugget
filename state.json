@@ -268,7 +268,13 @@
       "url": "https://www.artemis.bm/news/topic/catastrophe-bond/",
       "title": "Catastrophe bond news",
       "first_seen_utc": "2026-01-20T07:24:56.552080+00:00"
+    },
+    "a471fe36d37f912f": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/catastrophe-bond-market-records-that-were-set-in-q4-2025/",
+      "title": "Catastrophe bond market records that were set in Q4 2025",
+      "first_seen_utc": "2026-01-21T07:25:21.963290+00:00"
     }
   },
-  "last_run_utc": "2026-01-20T07:24:56.552104+00:00"
+  "last_run_utc": "2026-01-21T07:25:21.963319+00:00"
 }
