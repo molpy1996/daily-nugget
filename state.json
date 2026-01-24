@@ -280,7 +280,13 @@
       "url": "https://www.artemis.bm/news/us-insured-catastrophe-losses-in-2025-12-above-10-year-avg-at-100bn-gallagher-re/",
       "title": "US insured catastrophe losses in 2025 12% above 10-year ...",
       "first_seen_utc": "2026-01-23T07:22:51.646603+00:00"
+    },
+    "40c0660b44a02671": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/news/casualty-ils-and-sidecars-increase-negotiating-dynamics-in-the-us-at-jan-1-howden-re/",
+      "title": "Casualty ILS and sidecars increase negotiating dynamics ...",
+      "first_seen_utc": "2026-01-24T07:17:50.314047+00:00"
     }
   },
-  "last_run_utc": "2026-01-23T07:22:51.646642+00:00"
+  "last_run_utc": "2026-01-24T07:17:50.314084+00:00"
 }
