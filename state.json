@@ -286,7 +286,13 @@
       "url": "https://www.artemis.bm/news/casualty-ils-and-sidecars-increase-negotiating-dynamics-in-the-us-at-jan-1-howden-re/",
       "title": "Casualty ILS and sidecars increase negotiating dynamics ...",
       "first_seen_utc": "2026-01-24T07:17:50.314047+00:00"
+    },
+    "1845b1836fd744fa": {
+      "source": "artemis.bm",
+      "url": "https://www.artemis.bm/dashboard/cat-bonds-ils-by-risk-or-peril/",
+      "title": "Catastrophe bonds & ILS outstanding by risk or peril",
+      "first_seen_utc": "2026-01-28T07:23:25.462511+00:00"
     }
   },
-  "last_run_utc": "2026-01-27T07:25:00.975973+00:00"
+  "last_run_utc": "2026-01-28T07:23:25.462547+00:00"
 }
