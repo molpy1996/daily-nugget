@@ -292,7 +292,19 @@
       "url": "https://www.artemis.bm/dashboard/cat-bonds-ils-by-risk-or-peril/",
       "title": "Catastrophe bonds & ILS outstanding by risk or peril",
       "first_seen_utc": "2026-01-28T07:23:25.462511+00:00"
+    },
+    "e72e3769d9ae90eb": {
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/soft-marine-reinsurance-market-savings-passed-shipowners",
+      "title": "Soft marine reinsurance market savings passed on to shipowners - Reinsurance News",
+      "first_seen_utc": "2026-01-29T07:37:46.084087+00:00"
+    },
+    "ab0ff298809f026e": {
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/marine-lines-added-londons-ppl-trading-platform",
+      "title": "Marine lines added to London's PPL trading platform - Reinsurance News",
+      "first_seen_utc": "2026-01-29T07:37:46.084087+00:00"
     }
   },
-  "last_run_utc": "2026-01-28T07:23:25.462547+00:00"
+  "last_run_utc": "2026-01-29T07:37:46.084127+00:00"
 }
